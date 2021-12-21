@@ -1,0 +1,8 @@
+Thanks EK for your pursuit at "Calle at the corner".
+
+You have ordered:
+Veggo ceasar salad, 13 dollar, contains the ingredients: ['Tomato', 'Corn', 'Zucchini', 'Avocado'].
+
+Date: 2019-04-29 14:01:22.068138
+
+Have a nice day!
